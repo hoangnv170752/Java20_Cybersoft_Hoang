@@ -11,7 +11,6 @@ Bai 3: Viết chương trình in ra các thông tin :
  - Java Runtime version
  - Java Home 
  - Java Vendor URL
- - Java Vendor URL 
  - Java Class Path 
 ## Bai 4 (DigitsSum)
 Bai 4: Viết chương trình cho phép nhập vào một số tự nhiên và in ra tổng các chữ số của số tự nhiên đó
@@ -22,5 +21,19 @@ Bai 6: Viết chương trình ch phép nhập vào một chuỗi, in ra chuỗi 
 
 ## Bai 7 (DivisorNumber)
 Bai 7: Viết chương trình cho phép nhập vào 1 số tự nhiên và in ra các ước số của số tự nhiên đó
-## Bai 8 
+## Bai 8 (CapslockLetters)
 Bai 8: Viết chương trình cho phép nhập vào 1 chuỗi viết thường, in ra chuỗi trên với các kí tự đầu tiên được viết in hoa.
+## Bai 9
+Bai 9: Viết chương trình cho phép nhập vào 2 số nguyên dương (từ 10 đến 99) in TRUE nếu 2 số trên có cùng 1 hoặc 2 chữ số, ngược lại in ra FALSE (ví dụ (12, 81) là TRUE, (23 , 89) là FALSE).
+## Bai 10
+Bai 10: Viết chương trình cho phép nhập vào số tự nhiên n, in ra tổng các số nguyên tố từ 1 đến n.
+## Bai 11
+Bai 11: Viết chương trình cho phép nhập vào số tự nhiên n, in ra số tự nhiên lớn nhất nhỏ
+hơn log2(n).
+## Bai 12 
+Bai 12: Viết chương trình cho phép nhập vào số tự nhiên n (từ 1 đến 9) và in ra tam giác
+vuông có độ dài tương ứng. VD: nhập vào số 4 sẽ in ra kết quả:
+1
+12
+123
+1234
