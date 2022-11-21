@@ -5,7 +5,7 @@ Repo lưu bài tập Java lớp Java20
 Bai 1: Viết chương trình in quốc kì mỹ 
 ## Bai 2 (BinaryToDecimal)
 Bai 2: Viết chương trình chuyển đổi số từ hệ cơ số 10 sang hệ cơ số nhị phân và ngược lại 
-## Bai 3 
+## Bai 3 (JavaEnv)
 Bai 3: Viết chương trình in ra các thông tin :
  - Java version 
  - Java Runtime version
@@ -27,7 +27,7 @@ Bai 8: Viết chương trình cho phép nhập vào 1 chuỗi viết thường, 
 Bai 9: Viết chương trình cho phép nhập vào 2 số nguyên dương (từ 10 đến 99) in TRUE nếu 2 số trên có cùng 1 hoặc 2 chữ số, ngược lại in ra FALSE (ví dụ (12, 81) là TRUE, (23 , 89) là FALSE).
 ## Bai 10 (PrimeNumberTotal)
 Bai 10: Viết chương trình cho phép nhập vào số tự nhiên n, in ra tổng các số nguyên tố từ 1 đến n.
-## Bai 11
+## Bai 11 (ClosestLogn)
 Bai 11: Viết chương trình cho phép nhập vào số tự nhiên n, in ra số tự nhiên lớn nhất nhỏ
 hơn log2(n).
 ## Bai 12 (SquareTriangle)
@@ -37,3 +37,35 @@ vuông có độ dài tương ứng. VD: nhập vào số 4 sẽ in ra kết qu�
 12
 123
 1234
+## Bai 13
+Bai 13: Viết chương trình cho phép nhập vào số phần tử và từng phần tử của một mảng.
+Tính:
+a) Tính giá trị trung bình
+b) Tìm phần tử lớn nhất, nhỏ nhất
+c) Tìm phần tử âm lớn nhất, nhỏ nhất trong mảng
+d) Tìm phần tử dương lớn nhất, nhỏ nhất trong mảng
+e) In ra các phần tử chẵn, lẻ
+f) Thêm một phần tử theo index
+g) Xóa một phần tử theo index
+## Bai 14
+Bai 14: Viết chương trình cho phép nhập vào số phần tử và từng phần tử của một mảng.
+Xóa đi các phần tử bị lặp lại.
+## Bai 15
+Bai 15: Viết chương trình cho phép nhập vào một chuỗi:
+a) In ra độ dài của chuỗi
+b) In ra ký tự (char) tại một vị trí nhất định (index)
+c) Kiểm tra xem, trong chuỗi vừa nhập có chuỗi phụ "abcdef" hay không
+## Bai 16 (LeapYear)
+Bai 16: Viết chương trình kiểm tra xem năm nhập vào có phải năm nhuận hay không?
+## Bai 17
+Bai 17: Chương trình cho phép máy tính phát sinh ngẫu nhiên một số từ 1 đến 1000.
+Người dùng sẽ đoán và nhập, nếu đúng với kết quả của máy, game sẽ dừng.
+Ngược lại máy sẽ báo bạn đang nhập một số lớn hơn hoặc nhỏ hơn số bí mật    
+## Bai 18 
+Bai 18: Chương trình tính và in số năm chờ đợi. Anh X có một số tiền nhàn rỗi. Anh
+đem gởi tiết kiệm số tiền này. Anh X hy vọng rằng đến một lúc nào đó trong tương
+lai anh sẽ có đủ tiền để mua một chiếc ô tô. Cho biết số tiền anh X gửi, số tiền
+anh X muốn có trong tương lai và tiền lãi tiết kiệm. Hãy viết chương trình tính số
+năm ít nhất mà anh X phải chờ đợi kể từ năm gởi tiền. Giả sử lãi suất tiết kiệm
+không đổi, anh X không rút bớt tiền và cũng không gởi thêm tiền trong thời gian
+chờ đợi.
