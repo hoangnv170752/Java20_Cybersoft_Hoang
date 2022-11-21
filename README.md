@@ -25,12 +25,12 @@ Bai 7: Viết chương trình cho phép nhập vào 1 số tự nhiên và in ra
 Bai 8: Viết chương trình cho phép nhập vào 1 chuỗi viết thường, in ra chuỗi trên với các kí tự đầu tiên được viết in hoa.
 ## Bai 9
 Bai 9: Viết chương trình cho phép nhập vào 2 số nguyên dương (từ 10 đến 99) in TRUE nếu 2 số trên có cùng 1 hoặc 2 chữ số, ngược lại in ra FALSE (ví dụ (12, 81) là TRUE, (23 , 89) là FALSE).
-## Bai 10
+## Bai 10 (PrimeNumberTotal)
 Bai 10: Viết chương trình cho phép nhập vào số tự nhiên n, in ra tổng các số nguyên tố từ 1 đến n.
 ## Bai 11
 Bai 11: Viết chương trình cho phép nhập vào số tự nhiên n, in ra số tự nhiên lớn nhất nhỏ
 hơn log2(n).
-## Bai 12 
+## Bai 12 (SquareTriangle)
 Bai 12: Viết chương trình cho phép nhập vào số tự nhiên n (từ 1 đến 9) và in ra tam giác
 vuông có độ dài tương ứng. VD: nhập vào số 4 sẽ in ra kết quả:
 1
