@@ -12,10 +12,15 @@ public class SquareTriangle {
         System.out.println("Nhap vao so nguyen n: ");
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-        for (int i = 1; i <= n; i++) {
-            for (int j = i; j >= 1; j--) {
+        int i, j;
+        i = 1;
+        while (i <= n) {
+            j = 1;
+            while (j <= i) {
                 System.out.print(j);
+                j++;
             }
+            i++;
             System.out.println(" ");
         }
     }
