@@ -60,7 +60,7 @@ Bai 16: Viết chương trình kiểm tra xem năm nhập vào có phải năm n
 ## Bai 17 (GuessNumber)
 Bai 17: Chương trình cho phép máy tính phát sinh ngẫu nhiên một số từ 1 đến 1000. Người dùng sẽ đoán và nhập, nếu đúng với kết quả của máy, game sẽ dừng.
 Ngược lại máy sẽ báo bạn đang nhập một số lớn hơn hoặc nhỏ hơn số bí mật    
-## Bai 18 
+## Bai 18 (SavingMoney)
 Bai 18: Chương trình tính và in số năm chờ đợi. Anh X có một số tiền nhàn rỗi. Anh đem gởi tiết kiệm số tiền này. Anh X hy vọng rằng đến một lúc nào đó trong tương lai anh sẽ có đủ tiền để mua một chiếc ô tô. Cho biết số tiền anh X gửi, số tiền
 anh X muốn có trong tương lai và tiền lãi tiết kiệm. Hãy viết chương trình tính số năm ít nhất mà anh X phải chờ đợi kể từ năm gởi tiền. Giả sử lãi suất tiết kiệm không đổi, anh X không rút bớt tiền và cũng không gởi thêm tiền trong thời gian
 chờ đợi.
