@@ -57,7 +57,7 @@ b) In ra ký tự (char) tại một vị trí nhất định (index)
 c) Kiểm tra xem, trong chuỗi vừa nhập có chuỗi phụ "abcdef" hay không
 ## Bai 16 (LeapYear)
 Bai 16: Viết chương trình kiểm tra xem năm nhập vào có phải năm nhuận hay không?
-## Bai 17
+## Bai 17 (GuessNumber)
 Bai 17: Chương trình cho phép máy tính phát sinh ngẫu nhiên một số từ 1 đến 1000. Người dùng sẽ đoán và nhập, nếu đúng với kết quả của máy, game sẽ dừng.
 Ngược lại máy sẽ báo bạn đang nhập một số lớn hơn hoặc nhỏ hơn số bí mật    
 ## Bai 18 
@@ -66,7 +66,7 @@ anh X muốn có trong tương lai và tiền lãi tiết kiệm. Hãy viết ch
 chờ đợi.
 ## Bai 19 (SolveFunc)
 Bai 19: Viết chương trình giải phương trình bậc 1 và bậc 2. Trình bày dưới dạng menu cho phép lựa chọn.
-## Bai 20
+## Bai 20 (OddEvenAray)
 Bai 20: Viết chương trình tách một mảng số tự nhiên được nhập từ bàn phím thành 2 mảng: một mảng chẵn + một mảng lẻ
 ## Bai 21
 Bai 21: Cho 2 con kangaroo ở tren cùng 1 đường, vị trí dương. Cho x1, x2 lần lượt là địa chỉ của kan1 và kan2; v1, v2 lần lượt là vận tốc của kan1 và kan 2.
