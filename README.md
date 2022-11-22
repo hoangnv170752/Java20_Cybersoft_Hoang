@@ -58,14 +58,21 @@ c) Kiểm tra xem, trong chuỗi vừa nhập có chuỗi phụ "abcdef" hay kh�
 ## Bai 16 (LeapYear)
 Bai 16: Viết chương trình kiểm tra xem năm nhập vào có phải năm nhuận hay không?
 ## Bai 17
-Bai 17: Chương trình cho phép máy tính phát sinh ngẫu nhiên một số từ 1 đến 1000.
-Người dùng sẽ đoán và nhập, nếu đúng với kết quả của máy, game sẽ dừng.
+Bai 17: Chương trình cho phép máy tính phát sinh ngẫu nhiên một số từ 1 đến 1000. Người dùng sẽ đoán và nhập, nếu đúng với kết quả của máy, game sẽ dừng.
 Ngược lại máy sẽ báo bạn đang nhập một số lớn hơn hoặc nhỏ hơn số bí mật    
 ## Bai 18 
-Bai 18: Chương trình tính và in số năm chờ đợi. Anh X có một số tiền nhàn rỗi. Anh
-đem gởi tiết kiệm số tiền này. Anh X hy vọng rằng đến một lúc nào đó trong tương
-lai anh sẽ có đủ tiền để mua một chiếc ô tô. Cho biết số tiền anh X gửi, số tiền
-anh X muốn có trong tương lai và tiền lãi tiết kiệm. Hãy viết chương trình tính số
-năm ít nhất mà anh X phải chờ đợi kể từ năm gởi tiền. Giả sử lãi suất tiết kiệm
-không đổi, anh X không rút bớt tiền và cũng không gởi thêm tiền trong thời gian
+Bai 18: Chương trình tính và in số năm chờ đợi. Anh X có một số tiền nhàn rỗi. Anh đem gởi tiết kiệm số tiền này. Anh X hy vọng rằng đến một lúc nào đó trong tương lai anh sẽ có đủ tiền để mua một chiếc ô tô. Cho biết số tiền anh X gửi, số tiền
+anh X muốn có trong tương lai và tiền lãi tiết kiệm. Hãy viết chương trình tính số năm ít nhất mà anh X phải chờ đợi kể từ năm gởi tiền. Giả sử lãi suất tiết kiệm không đổi, anh X không rút bớt tiền và cũng không gởi thêm tiền trong thời gian
 chờ đợi.
+## Bai 19 (SolveFunc)
+Bai 19: Viết chương trình giải phương trình bậc 1 và bậc 2. Trình bày dưới dạng menu cho phép lựa chọn.
+## Bai 20
+Bai 20: Viết chương trình tách một mảng số tự nhiên được nhập từ bàn phím thành 2 mảng: một mảng chẵn + một mảng lẻ
+## Bai 21
+Bai 21: Cho 2 con kangaroo ở tren cùng 1 đường, vị trí dương. Cho x1, x2 lần lượt là địa chỉ của kan1 và kan2; v1, v2 lần lượt là vận tốc của kan1 và kan 2.
+Điều kiện: 0 <= x1 < x2 < 10000; 1 <= v1, v2 <= 10000
+Sau 1 lần nhảy, vị trí 2 con kan sẽ tăng thêm bằng đúng vận tốc của từng con Hỏi là 2 con kan có gặp nhau được hay không. Các số x1, x2, v1, v2 được nhập từ bàn phím
+## Bai 22
+Bai 22: Viết chương trình cho phép nhập vào String, tìm ra sub string palindromic có độ dài dài nhất. VD:
+input: thequickbrownfoxxofnworbquickthe
+output: xofnworbquickthe
