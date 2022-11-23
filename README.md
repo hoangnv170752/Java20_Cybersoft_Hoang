@@ -47,7 +47,7 @@ d) Tìm phần tử dương lớn nhất, nhỏ nhất trong mảng
 e) In ra các phần tử chẵn, lẻ
 f) Thêm một phần tử theo index
 g) Xóa một phần tử theo index
-## Bai 14
+## Bai 14 (DeleteSameNumbers)
 Bai 14: Viết chương trình cho phép nhập vào số phần tử và từng phần tử của một mảng.
 Xóa đi các phần tử bị lặp lại.
 ## Bai 15
@@ -76,3 +76,12 @@ Sau 1 lần nhảy, vị trí 2 con kan sẽ tăng thêm bằng đúng vận t�
 Bai 22: Viết chương trình cho phép nhập vào String, tìm ra sub string palindromic có độ dài dài nhất. VD:
 input: thequickbrownfoxxofnworbquickthe
 output: xofnworbquickthe
+## Bai 23
+Bai 23: (Tinh tien Karaoke)
+Một quán karaoke tính tiền khách hàng theo công thức:
+● Mỗi giờ hát trong 3 giờ đầu tiên có giá: 30.000 VNĐ/giờ
+● Mỗi giờ tiếp theo có đơn giá bằng 30% đơn giá của 3 giờ đầu tiên
+● Giá mỗi chai nước là 10.000 VNĐ
+● Thời gian mở cửa: 9:00 - 24:00 (không qua đêm)
+● Nếu vào cửa từ lúc 9:00 - 17:00, giảm 20% trên tổng hóa đơn
+Viết chương trình nhập vào giờ bắt đầu, giờ kết thúc của một (nhóm) khách hàng vào phòng hát, in ra tổng chi phí phải trả cho khách hàng.
