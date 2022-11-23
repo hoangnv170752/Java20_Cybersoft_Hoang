@@ -76,7 +76,7 @@ Sau 1 lần nhảy, vị trí 2 con kan sẽ tăng thêm bằng đúng vận t�
 Bai 22: Viết chương trình cho phép nhập vào String, tìm ra sub string palindromic có độ dài dài nhất. VD:
 input: thequickbrownfoxxofnworbquickthe
 output: xofnworbquickthe
-## Bai 23
+## Bai 23 (Karaoke)
 Bai 23: (Tinh tien Karaoke)
 Một quán karaoke tính tiền khách hàng theo công thức:
 ● Mỗi giờ hát trong 3 giờ đầu tiên có giá: 30.000 VNĐ/giờ
