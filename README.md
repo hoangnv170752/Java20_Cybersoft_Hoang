@@ -37,7 +37,7 @@ vuông có độ dài tương ứng. VD: nhập vào số 4 sẽ in ra kết qu�
 12
 123
 1234
-## Bai 13
+## Bai 13 (ArrayManipulation)
 Bai 13: Viết chương trình cho phép nhập vào số phần tử và từng phần tử của một mảng.
 Tính:
 a) Tính giá trị trung bình
@@ -50,7 +50,7 @@ g) Xóa một phần tử theo index
 ## Bai 14 (DeleteSameNumbers)
 Bai 14: Viết chương trình cho phép nhập vào số phần tử và từng phần tử của một mảng.
 Xóa đi các phần tử bị lặp lại.
-## Bai 15
+## Bai 15 (StringManipulation)
 Bai 15: Viết chương trình cho phép nhập vào một chuỗi:
 a) In ra độ dài của chuỗi
 b) In ra ký tự (char) tại một vị trí nhất định (index)
