@@ -72,10 +72,10 @@ Bai 20: Viết chương trình tách một mảng số tự nhiên được nh�
 Bai 21: Cho 2 con kangaroo ở tren cùng 1 đường, vị trí dương. Cho x1, x2 lần lượt là địa chỉ của kan1 và kan2; v1, v2 lần lượt là vận tốc của kan1 và kan 2.
 Điều kiện: 0 <= x1 < x2 < 10000; 1 <= v1, v2 <= 10000
 Sau 1 lần nhảy, vị trí 2 con kan sẽ tăng thêm bằng đúng vận tốc của từng con Hỏi là 2 con kan có gặp nhau được hay không. Các số x1, x2, v1, v2 được nhập từ bàn phím
-## Bai 22
+## Bai 22 (PalindromicString)
 Bai 22: Viết chương trình cho phép nhập vào String, tìm ra sub string palindromic có độ dài dài nhất. VD:
 input: thequickbrownfoxxofnworbquickthe
-output: xofnworbquickthe
+output: xofnworb
 ## Bai 23 (Karaoke)
 Bai 23: (Tinh tien Karaoke)
 Một quán karaoke tính tiền khách hàng theo công thức:
