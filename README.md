@@ -68,7 +68,7 @@ chờ đợi.
 Bai 19: Viết chương trình giải phương trình bậc 1 và bậc 2. Trình bày dưới dạng menu cho phép lựa chọn.
 ## Bai 20 (OddEvenAray)
 Bai 20: Viết chương trình tách một mảng số tự nhiên được nhập từ bàn phím thành 2 mảng: một mảng chẵn + một mảng lẻ
-## Bai 21
+## Bai 21 (KangarooJump)
 Bai 21: Cho 2 con kangaroo ở tren cùng 1 đường, vị trí dương. Cho x1, x2 lần lượt là địa chỉ của kan1 và kan2; v1, v2 lần lượt là vận tốc của kan1 và kan 2.
 Điều kiện: 0 <= x1 < x2 < 10000; 1 <= v1, v2 <= 10000
 Sau 1 lần nhảy, vị trí 2 con kan sẽ tăng thêm bằng đúng vận tốc của từng con Hỏi là 2 con kan có gặp nhau được hay không. Các số x1, x2, v1, v2 được nhập từ bàn phím
