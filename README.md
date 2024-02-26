@@ -85,3 +85,14 @@ Một quán karaoke tính tiền khách hàng theo công thức:
 ● Thời gian mở cửa: 9:00 - 24:00 (không qua đêm)
 ● Nếu vào cửa từ lúc 9:00 - 17:00, giảm 20% trên tổng hóa đơn
 Viết chương trình nhập vào giờ bắt đầu, giờ kết thúc của một (nhóm) khách hàng vào phòng hát, in ra tổng chi phí phải trả cho khách hàng.
+
+
+## Bai 24 (End of file - Hackerrank)
+The challenge here is to read  lines of input until you reach EOF, then number and print all  lines of content.
+Hint: Java's Scanner.hasNext() method is helpful for this problem.
+
+Input Format:
+Read some unknown  lines of input from stdin(System.in) until you reach EOF; each line of input contains a non-empty String.
+
+Output Format:
+For each line, print the line number, followed by a single space, and then the line content received as input.
